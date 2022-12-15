@@ -1,0 +1,11 @@
+# Data from this project was acquired from the Alaska Satellite Facility (ASF) InSAR processing platform. Generated vertical displacement maps can be
+# found within the google drive link below:
+# https://drive.google.com/drive/folders/1MqThmHIqbSK11Kf900zrcGXJfm-n-94O?usp=sharing
+
+# Daily averages of stream gage height and GPS location for four stream gages on the Mohawk River (#01354330 'Lock 8,' #01354500 'Freeman's Bridge,' 
+# #01355475 'Rexford,' #01356000 'Vischer Ferry Dam') were acquired from the United States Geological Survey (USGS) National Water Information System 
+# (NWIS) using the climata.usgs package in python. 
+
+# A shapefile of the channel geometry of the Mohawk River was acquired from the New York State Geographic Information Systems repository at the link below:
+# https://gis.ny.gov/gisdata/inventories/details.cfm?DSID=928
+
