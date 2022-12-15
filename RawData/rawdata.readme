@@ -1,3 +1,9 @@
+# This project is focused on an ice jam event on the Mohawk River in Schenectady County, New York, USA in February 2019. This ice jam event was identified 
+# using the Cold Regions Research and Engineering Laboratory (CRREL) Ice Jam Database at the link below:
+# https://icejam.sec.usace.army.mil/ords/f?p=1001:7::::::
+
+# The period explored in this study is January 26, 2019 to February 19, 2019. The ice jam 'breakup' identified in the CRREL database occurred on February 8.
+
 # Data from this project was acquired from the Alaska Satellite Facility (ASF) InSAR processing platform. Generated vertical displacement maps can be
 # found within the google drive link below:
 # https://drive.google.com/drive/folders/1MqThmHIqbSK11Kf900zrcGXJfm-n-94O?usp=sharing
